@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                         v.getContext().startActivity(i);
                     }
                 });
-
+//image comment
                 ImageView menuIcon = noteViewHolder.view.findViewById(R.id.menuIcon);
                 menuIcon.setOnClickListener(new View.OnClickListener() {
                     @Override
