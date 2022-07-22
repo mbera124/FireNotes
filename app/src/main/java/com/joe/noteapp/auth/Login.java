@@ -28,6 +28,7 @@ import com.google.firebase.auth.GoogleAuthProvider;
 import com.joe.noteapp.MainActivity;
 import com.joe.noteapp.R;
 
+
 public class Login extends AppCompatActivity {
     //    EditText lEmail,lPassword;
 //    Button loginNow;
