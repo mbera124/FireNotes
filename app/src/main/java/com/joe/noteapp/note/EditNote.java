@@ -1,6 +1,7 @@
 package com.joe.noteapp.note;
 
 import androidx.annotation.NonNull;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
@@ -21,6 +22,7 @@ import com.google.firebase.firestore.FirebaseFirestore;
 
 import com.joe.noteapp.MainActivity;
 import com.joe.noteapp.R;
+
 
 import java.util.HashMap;
 import java.util.Map;
